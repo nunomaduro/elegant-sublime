@@ -1,0 +1,32 @@
+{
+	"added_words":
+	[
+		"Laravel"
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Github2 (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
+	"font_face": "OperatorMono-Book",
+	"font_size": 16,
+	"highlight_line": false,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"SublimeLinter-jshint",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 9,
+	"line_padding_top": 9,
+	"phpunit-sublime-terminal": "iTerm",
+	"remember_open_files": false,
+	"show_definitions": false,
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"tabs_small": false,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
