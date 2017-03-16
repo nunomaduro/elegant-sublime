@@ -1,2 +1,3 @@
-# sublime-text
-My primary text editor is Sublime Text 3. I primarily use the Soda theme and the Inspired GitHub color scheme. I use Operator Mono as my primary coding font. I use SublimeLinter to get PHP syntax checking in Sublime.
+## My Sublime Text Configuration
+
+Based on: <a href="https://medium.com/@taylorotwell/how-i-work-a22010d1ad82">https://medium.com/@taylorotwell/how-i-work-a22010d1ad82</a>

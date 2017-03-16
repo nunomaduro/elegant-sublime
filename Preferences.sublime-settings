@@ -1,8 +1,4 @@
 {
-	"added_words":
-	[
-		"Laravel"
-	],
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Github2 (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
