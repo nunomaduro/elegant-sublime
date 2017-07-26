@@ -4,6 +4,11 @@
 	"ensure_newline_at_eof_on_save": true,
 	"findreplace_small": true,
 	"font_face": "OperatorMono-Book",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gray_antialias"
+	],
 	"font_size": 11,
 	"highlight_line": false,
 	"hot_exit": false,

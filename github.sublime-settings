@@ -5,6 +5,11 @@
 	"findreplace_small": true,
 	"font_face": "OperatorMono-Medium",
 	"font_size": 17,
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gray_antialias"
+	],
 	"highlight_line": false,
 	"hot_exit": false,
 	"ignored_packages":
