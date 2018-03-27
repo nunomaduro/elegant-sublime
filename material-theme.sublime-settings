@@ -1,0 +1,33 @@
+{
+    "caret_style": "phase",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+    "findreplace_small": true,
+    "font_face": "OperatorMono-Book",
+    "font_options":
+    [
+        "subpixel_antialias",
+        "gray_antialias"
+    ],
+    "font_size": 24,
+    "highlight_line": false,
+    "hot_exit": false,
+    "ignored_packages":
+    [
+        "SublimeLinter-jshint",
+        "Vintage"
+    ],
+    "line_numbers": true,
+    "line_padding_bottom": 12,
+    "line_padding_top": 12,
+    "phpunit-sublime-terminal": "iTerm",
+    "remember_open_files": false,
+    "show_definitions": false,
+    "show_panel_on_build": false,
+    "tab_size": 4,
+    "tabs_small": false,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}
